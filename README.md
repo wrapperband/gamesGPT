@@ -19,3 +19,22 @@ a few examples of text-based games that might have interactive versions :
     A Dark Room: This minimalist game is set in a dark and mysterious world, where players must gather resources, build structures, and make decisions that will affect the course of the game. The game has a simple and intuitive interface, and players can use a variety of strategies and tactics to survive and thrive in this hostile environment.  
 
     The Hitchhiker's Guide to the Galaxy: This game is based on the popular science fiction novel of the same name, and it follows the adventures of the character Arthur Dent as he travels through space and encounters strange and exotic alien worlds. The game is known for its clever writing, its engaging puzzles, and its faithful adaptation of the novel's characters and themes.  
+    
+## Games
+
+### Chork
+Chork is a fun and interesting game, and it certainly has a lot of potential. As a text-based game, Chork could be set in a fantasy world like Zork, and it could feature engaging puzzles, challenging gameplay, and a rich and immersive story. 
+
+The game could be set in a place called the Great Underground Empire, and players could take on the role of a hero who is tasked with exploring this world and solving its mysteries.  
+
+### Lost Pirate Treasure
+
+Lost Pirate Treasure is an exciting and engaging game, and it could provide players with hours of entertainment and adventure. As a text-based game, Lost Pirate Treasure could be set in a fantasy world where players take on the role of a pirate who is searching for treasure.  
+
+The game could be written in a humorous and engaging style, and players could use their wits and their understanding of the game's world to find hidden treasures and avoid dangerous obstacles. The game could feature challenging puzzles, engaging gameplay, and a rich and immersive story.  
+
+### "Normal Town"
+
+"Normal Town" is a unique and interesting game, and it could provide players with an engaging and immersive sci-fi experience. As a text-based game, Normal Town could be set in a futuristic world where players take on the role of a character who is exploring the town of Normal and uncovering its secrets. 
+
+The game could be set in a world where advanced technology and artificial intelligence are commonplace, and players could encounter a variety of interesting and complex characters and situations as they advance through the game. The game could feature challenging puzzles, engaging gameplay, and a rich and immersive story.    
