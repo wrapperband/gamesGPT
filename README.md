@@ -1,11 +1,11 @@
 # gamesGPT
 ## Games that GPT could play, initial development ideas  
 
-    The use of artificial intelligence and natural language processing in games has been growing in popularity in recent years, and GPT interactions are one of the most exciting developments in this field. This paper aims to explore the potential of GPT interactions in games like Dungeons and Dragons and Mudds, and to discuss the challenges and opportunities that this technology presents for players and game designers alike.  
+The use of artificial intelligence and natural language processing in games has been growing in popularity in recent years, and GPT interactions are one of the most exciting developments in this field. This paper aims to explore the potential of GPT interactions in games like Dungeons and Dragons and Mudds, and to discuss the challenges and opportunities that this technology presents for players and game designers alike.  
 
-    Dungeons and Dragons and Mudds are two of the most enduring and popular tabletop role-playing games in history, and they have inspired countless imitators and adaptations. In this paper, we will explore how GPT interactions can be used to enhance the gaming experience in these games, and we will discuss the potential benefits and drawbacks of this technology for players and game masters alike.  
+Dungeons and Dragons and Mudds are two of the most enduring and popular tabletop role-playing games in history, and they have inspired countless imitators and adaptations. In this paper, we will explore how GPT interactions can be used to enhance the gaming experience in these games, and we will discuss the potential benefits and drawbacks of this technology for players and game masters alike.  
 
-    GPT interactions have the potential to revolutionize the way we play games like Dungeons and Dragons and Mudds, by providing players with more immersive and engaging experiences. In this paper, we will explore some of the key ways in which GPT interactions can be used in these games, and we will discuss the challenges and opportunities that this technology presents for the gaming industry and for gamers themselves.  
+GPT interactions have the potential to revolutionize the way we play games like Dungeons and Dragons and Mudds, by providing players with more immersive and engaging experiences. In this paper, we will explore some of the key ways in which GPT interactions can be used in these games, and we will discuss the challenges and opportunities that this technology presents for the gaming industry and for gamers themselves.  
     
     
 #### A few examples of text-based games that might have interactive versions :  
