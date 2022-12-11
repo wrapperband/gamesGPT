@@ -36,3 +36,8 @@ The game could be written in a humorous and engaging style, and players could us
 "Normal Town" is a unique and interesting game, and it could provide players with an engaging and immersive sci-fi experience. As a text-based game, Normal Town could be set in a futuristic world where players take on the role of a character who is exploring the town of Normal and uncovering its secrets. 
 
 The game could be set in a world where advanced technology and artificial intelligence are commonplace, and players could encounter a variety of interesting and complex characters and situations as they advance through the game. The game could feature challenging puzzles, engaging gameplay, and a rich and immersive story.    
+
+### Night Mission
+Night Mission is an exciting and challenging game, and it could provide players with a unique and engaging experience. As a text-based game, Night Mission could be set in a moon base where players take on the role of an astronaut who is stranded and must survive until rescue arrives. 
+
+The game could be set in a world where resources are limited and danger lurks around every corner, and players could use their wits and their understanding of the game's world to gather resources, build structures, and make decisions that will affect the course of the game. The game could feature a simple and intuitive interface, and players could use a variety of strategies and tactics to survive and thrive in this hostile environment.
